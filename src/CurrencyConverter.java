@@ -11,7 +11,6 @@ public class CurrencyConverter {
         System.out.println("type '5' for USD to EUR");
 
         int choice = scanner.nextInt();
-
         System.out.println("Enter the amount you would like to convert:");
         int inputAmount = scanner.nextInt();
 
