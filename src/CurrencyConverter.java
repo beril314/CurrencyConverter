@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class CurrencyConverter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
         //Options are displayed to the user
         System.out.println("Choose one from the following actions");
         System.out.println("type '0' for GBP to USD");
